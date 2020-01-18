@@ -152,6 +152,6 @@ pip-selfcheck.json
 # Poetry
 finance_essentials_37_64/
 tests/
-poetry.lock
-pyproject.toml
+# poetry.lock
+# pyproject.toml
 README.rst
