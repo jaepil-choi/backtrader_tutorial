@@ -148,10 +148,3 @@ pip-selfcheck.json
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-
-# Poetry
-finance_essentials_37_64/
-tests/
-# poetry.lock
-# pyproject.toml
-README.rst
